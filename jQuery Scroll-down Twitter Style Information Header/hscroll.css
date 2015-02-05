@@ -1,0 +1,21 @@
+#header{
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	background-color: white;
+	opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+    height: 40px;
+    border: 0;
+}
+
+#text{
+	margin-top: 20px;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Georgia;
+	line-height: 0px;
+	text-align: center;
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Typewriter typing effect</title>
+	<script src="jquery-1.11.1.min.js"></script>
+	<script>
+		var text = "",
+			count = 0,
+			maxspeed = 200;
+
+		$(document).ready(function(){
+
+			function typeit(punch){
+				text = punch;
+				type();
+			}
+
+			function character(start, end, text){
+				return text.substring(start, end);
+			}
+
+			function type(){
+				var random = Math.floor(Math.random() * maxspeed);
+				setTimeout(type, random);
+				$('#box').append(character(count, count+1, text));
+				count++;
+			}
+
+			typeit('phpacademy - Watch, Listen, Learn!');
+
+		});
+	</script>
+</head>
+<body>
+	<div id="box"></div>
+</body>
+</html>

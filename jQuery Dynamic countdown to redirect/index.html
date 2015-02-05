@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Countdown to redirect</title>
+	<script src="jquery-1.11.1.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			var number = 10,
+				url = '';
+
+			function redirect(num, goto){
+				number = num;
+				url = goto;
+				countdown();
+			}
+
+			function countdown(){
+				setTimeout(countdown, 1000);
+				$('#box').html("Redirecting in " + number + " seconds.");
+				number --;
+
+				if(number < 0){
+					window.location = url;
+					number = 0;
+				}
+			}
+
+			redirect(3, 'http://www.google.com');
+		});
+	</script>
+</head>
+<body>
+	<div id="box"></div>
+</body>
+</html>

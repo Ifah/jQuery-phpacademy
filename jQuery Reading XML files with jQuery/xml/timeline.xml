@@ -1,0 +1,809 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:georss='http://www.georss.org/georss' xmlns:gml='http://www.opengis.net/gml' xmlns:yt='http://gdata.youtube.com/schemas/2007' xmlns:media='http://search.yahoo.com/mrss/'><id>http://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads</id><updated>2014-12-21T09:54:56.024Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><title type='text'>Uploads by phpacademy</title><logo>http://www.gstatic.com/youtube/img/logo.png</logo><link rel='related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/phpacademy'/><link rel='alternate' type='text/html' href='https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g/videos'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads'/><link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/batch'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads?start-index=1&amp;max-results=25'/><link rel='next' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads?start-index=26&amp;max-results=25'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><generator version='2.1' uri='http://gdata.youtube.com'>YouTube data API</generator><openSearch:totalResults>791</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry><id>http://gdata.youtube.com/feeds/api/videos/X5rfX9utf5M</id><published>2014-12-12T17:30:05.000Z</published><updated>2014-12-20T22:28:40.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Populating Dropdowns in PHP (1/2)</title><content type='text'>A brief look at populating a simple dropdown (an HTML select element) with data from a MySQL database, using PHP. We'll also look at joining two tables, and showing more information when an option is selected.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE9zhEn8BA3Y_-ygBB0t5CN
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=X5rfX9utf5M&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/X5rfX9utf5M/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=X5rfX9utf5M'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/X5rfX9utf5M'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/X5rfX9utf5M/comments' countHint='8'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/X5rfX9utf5M?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='957' yt:format='5'/><media:content url='rtsp://r4---sn-a5m7zu7s.c.youtube.com/CigLENy73wIaHwmTf63bX9-aXxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='957' yt:format='1'/><media:content url='rtsp://r4---sn-a5m7zu7s.c.youtube.com/CigLENy73wIaHwmTf63bX9-aXxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='957' yt:format='6'/><media:description type='plain'>A brief look at populating a simple dropdown (an HTML select element) with data from a MySQL database, using PHP. We'll also look at joining two tables, and showing more information when an option is selected.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE9zhEn8BA3Y_-ygBB0t5CN
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=X5rfX9utf5M&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/X5rfX9utf5M/0.jpg' height='360' width='480' time='00:07:58.500'/><media:thumbnail url='https://i.ytimg.com/vi/X5rfX9utf5M/1.jpg' height='90' width='120' time='00:03:59.250'/><media:thumbnail url='https://i.ytimg.com/vi/X5rfX9utf5M/2.jpg' height='90' width='120' time='00:07:58.500'/><media:thumbnail url='https://i.ytimg.com/vi/X5rfX9utf5M/3.jpg' height='90' width='120' time='00:11:57.750'/><media:title type='plain'>Populating Dropdowns in PHP (1/2)</media:title><yt:duration seconds='957'/></media:group><gd:rating average='4.9183674' max='5' min='1' numRaters='49' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='2320'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/gsKLGs8yzKQ</id><published>2014-12-12T17:30:02.000Z</published><updated>2014-12-18T15:09:26.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Populating Dropdowns in PHP (Adding AJAX) (2/2)</title><content type='text'>Expanding on the last part to add an AJAX call with jQuery when an option is selected.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE9zhEn8BA3Y_-ygBB0t5CN
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=gsKLGs8yzKQ&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/gsKLGs8yzKQ/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=gsKLGs8yzKQ'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/gsKLGs8yzKQ'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/gsKLGs8yzKQ/comments' countHint='3'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/gsKLGs8yzKQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='649' yt:format='5'/><media:content url='rtsp://r2---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwmkzDLPGovCghMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='649' yt:format='1'/><media:content url='rtsp://r2---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwmkzDLPGovCghMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='649' yt:format='6'/><media:description type='plain'>Expanding on the last part to add an AJAX call with jQuery when an option is selected.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE9zhEn8BA3Y_-ygBB0t5CN
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=gsKLGs8yzKQ&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/gsKLGs8yzKQ/0.jpg' height='360' width='480' time='00:05:24.500'/><media:thumbnail url='https://i.ytimg.com/vi/gsKLGs8yzKQ/1.jpg' height='90' width='120' time='00:02:42.250'/><media:thumbnail url='https://i.ytimg.com/vi/gsKLGs8yzKQ/2.jpg' height='90' width='120' time='00:05:24.500'/><media:thumbnail url='https://i.ytimg.com/vi/gsKLGs8yzKQ/3.jpg' height='90' width='120' time='00:08:06.750'/><media:title type='plain'>Populating Dropdowns in PHP (Adding AJAX) (2/2)</media:title><yt:duration seconds='649'/></media:group><gd:rating average='4.870968' max='5' min='1' numRaters='31' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1147'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/x4XyBiNyDrA</id><published>2014-12-10T18:41:25.000Z</published><updated>2014-12-20T13:06:42.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Dropdown Autosuggest: Styling (5/5)</title><content type='text'>Finally, making our dropdown look nice. You can then customise it to suit your style.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=x4XyBiNyDrA&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/x4XyBiNyDrA/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=x4XyBiNyDrA'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/x4XyBiNyDrA'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/x4XyBiNyDrA/comments' countHint='7'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/x4XyBiNyDrA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='542' yt:format='5'/><media:content url='rtsp://r7---sn-a5m7zu7d.c.youtube.com/CigLENy73wIaHwmwDnIjBvKFxxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='542' yt:format='1'/><media:content url='rtsp://r7---sn-a5m7zu7d.c.youtube.com/CigLENy73wIaHwmwDnIjBvKFxxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='542' yt:format='6'/><media:description type='plain'>Finally, making our dropdown look nice. You can then customise it to suit your style.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=x4XyBiNyDrA&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/x4XyBiNyDrA/0.jpg' height='360' width='480' time='00:04:31'/><media:thumbnail url='https://i.ytimg.com/vi/x4XyBiNyDrA/1.jpg' height='90' width='120' time='00:02:15.500'/><media:thumbnail url='https://i.ytimg.com/vi/x4XyBiNyDrA/2.jpg' height='90' width='120' time='00:04:31'/><media:thumbnail url='https://i.ytimg.com/vi/x4XyBiNyDrA/3.jpg' height='90' width='120' time='00:06:46.500'/><media:title type='plain'>Dropdown Autosuggest: Styling (5/5)</media:title><yt:duration seconds='542'/></media:group><gd:rating average='4.9069767' max='5' min='1' numRaters='43' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1627'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/x4F6Kcbo3Vw</id><published>2014-12-10T18:41:25.000Z</published><updated>2014-12-20T20:51:27.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Dropdown Autosuggest: Autosuggest Plugin (4/5)</title><content type='text'>Using typeahead.js to apply autosuggest functionality to a simple HTML input element.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=x4F6Kcbo3Vw&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/x4F6Kcbo3Vw/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=x4F6Kcbo3Vw'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/x4F6Kcbo3Vw'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/x4F6Kcbo3Vw/comments' countHint='4'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/x4F6Kcbo3Vw?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='616' yt:format='5'/><media:content url='rtsp://r7---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwlc3ejGKXqBxxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='616' yt:format='1'/><media:content url='rtsp://r7---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwlc3ejGKXqBxxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='616' yt:format='6'/><media:description type='plain'>Using typeahead.js to apply autosuggest functionality to a simple HTML input element.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=x4F6Kcbo3Vw&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/x4F6Kcbo3Vw/0.jpg' height='360' width='480' time='00:05:08'/><media:thumbnail url='https://i.ytimg.com/vi/x4F6Kcbo3Vw/1.jpg' height='90' width='120' time='00:02:34'/><media:thumbnail url='https://i.ytimg.com/vi/x4F6Kcbo3Vw/2.jpg' height='90' width='120' time='00:05:08'/><media:thumbnail url='https://i.ytimg.com/vi/x4F6Kcbo3Vw/3.jpg' height='90' width='120' time='00:07:42'/><media:title type='plain'>Dropdown Autosuggest: Autosuggest Plugin (4/5)</media:title><yt:duration seconds='616'/></media:group><gd:rating average='4.7777777' max='5' min='1' numRaters='36' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1393'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/PEDz5mXHW0c</id><published>2014-12-10T18:41:25.000Z</published><updated>2014-12-21T09:39:15.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Dropdown Autosuggest: JSON Output (3/5)</title><content type='text'>We need a simple 'API' to output results based on a query, which will power our dropdown when users are searching.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=PEDz5mXHW0c&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/PEDz5mXHW0c/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=PEDz5mXHW0c'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/PEDz5mXHW0c'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/PEDz5mXHW0c/comments' countHint='3'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/PEDz5mXHW0c?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='380' yt:format='5'/><media:content url='rtsp://r8---sn-a5m7zu7k.c.youtube.com/CigLENy73wIaHwlHW8dl5vNAPBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='380' yt:format='1'/><media:content url='rtsp://r8---sn-a5m7zu7k.c.youtube.com/CigLENy73wIaHwlHW8dl5vNAPBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='380' yt:format='6'/><media:description type='plain'>We need a simple 'API' to output results based on a query, which will power our dropdown when users are searching.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=PEDz5mXHW0c&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/PEDz5mXHW0c/0.jpg' height='360' width='480' time='00:03:10'/><media:thumbnail url='https://i.ytimg.com/vi/PEDz5mXHW0c/1.jpg' height='90' width='120' time='00:01:35'/><media:thumbnail url='https://i.ytimg.com/vi/PEDz5mXHW0c/2.jpg' height='90' width='120' time='00:03:10'/><media:thumbnail url='https://i.ytimg.com/vi/PEDz5mXHW0c/3.jpg' height='90' width='120' time='00:04:45'/><media:title type='plain'>Dropdown Autosuggest: JSON Output (3/5)</media:title><yt:duration seconds='380'/></media:group><gd:rating average='4.7777777' max='5' min='1' numRaters='36' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1710'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/SZvMol1veL0</id><published>2014-12-10T18:41:25.000Z</published><updated>2014-12-19T16:08:24.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Dropdown Autosuggest: Fake Data (Optional) (2/5)</title><content type='text'>If you want to generate a lot of fake data while building your autosuggestion dropdown, in this video we generate around 10,000 fake usernames - although, you can generate any data.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=SZvMol1veL0&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/SZvMol1veL0/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=SZvMol1veL0'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/SZvMol1veL0'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/SZvMol1veL0/comments' countHint='5'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/SZvMol1veL0?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='299' yt:format='5'/><media:content url='rtsp://r1---sn-a5m7zu7z.c.youtube.com/CigLENy73wIaHwm9eG9dosybSRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='299' yt:format='1'/><media:content url='rtsp://r1---sn-a5m7zu7z.c.youtube.com/CigLENy73wIaHwm9eG9dosybSRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='299' yt:format='6'/><media:description type='plain'>If you want to generate a lot of fake data while building your autosuggestion dropdown, in this video we generate around 10,000 fake usernames - although, you can generate any data.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=SZvMol1veL0&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/SZvMol1veL0/0.jpg' height='360' width='480' time='00:02:29.500'/><media:thumbnail url='https://i.ytimg.com/vi/SZvMol1veL0/1.jpg' height='90' width='120' time='00:01:14.750'/><media:thumbnail url='https://i.ytimg.com/vi/SZvMol1veL0/2.jpg' height='90' width='120' time='00:02:29.500'/><media:thumbnail url='https://i.ytimg.com/vi/SZvMol1veL0/3.jpg' height='90' width='120' time='00:03:44.250'/><media:title type='plain'>Dropdown Autosuggest: Fake Data (Optional) (2/5)</media:title><yt:duration seconds='299'/></media:group><gd:rating average='4.625' max='5' min='1' numRaters='32' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1697'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/J6REieQ1SyA</id><published>2014-12-10T18:41:25.000Z</published><updated>2014-12-20T15:31:56.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Dropdown Autosuggest: Preview (1/5)</title><content type='text'>A look at the dropdown autosuggest feature we'll be building. We're using typeahead.js by Twitter to make building the suggestions as easy and fast as possible.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=J6REieQ1SyA&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/J6REieQ1SyA/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=J6REieQ1SyA'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/J6REieQ1SyA'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/J6REieQ1SyA/comments' countHint='5'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/J6REieQ1SyA?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='87' yt:format='5'/><media:content url='rtsp://r1---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwkgSzXkiUSkJxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='87' yt:format='1'/><media:content url='rtsp://r1---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwkgSzXkiUSkJxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='87' yt:format='6'/><media:description type='plain'>A look at the dropdown autosuggest feature we'll be building. We're using typeahead.js by Twitter to make building the suggestions as easy and fast as possible.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=J6REieQ1SyA&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/J6REieQ1SyA/0.jpg' height='360' width='480' time='00:00:43.500'/><media:thumbnail url='https://i.ytimg.com/vi/J6REieQ1SyA/1.jpg' height='90' width='120' time='00:00:21.750'/><media:thumbnail url='https://i.ytimg.com/vi/J6REieQ1SyA/2.jpg' height='90' width='120' time='00:00:43.500'/><media:thumbnail url='https://i.ytimg.com/vi/J6REieQ1SyA/3.jpg' height='90' width='120' time='00:01:05.250'/><media:title type='plain'>Dropdown Autosuggest: Preview (1/5)</media:title><yt:duration seconds='87'/></media:group><gd:rating average='4.7419353' max='5' min='1' numRaters='62' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='5555'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/MkVSwgQro4I</id><published>2014-12-09T16:00:12.000Z</published><updated>2014-12-20T19:39:06.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>PHP Social Network: Service Providers (10)</title><content type='text'>Creating the ability to register service providers within our application.
+
+Watch the full series here: https://www.youtube.com/playlist?list=PLfdtiltiRHWEGcgVaEZQGoCNN4ye-5Hrc
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=MkVSwgQro4I&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/MkVSwgQro4I/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=MkVSwgQro4I'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/MkVSwgQro4I'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/MkVSwgQro4I/comments' countHint='5'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/MkVSwgQro4I?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='250' yt:format='5'/><media:content url='rtsp://r6---sn-a5m7zu7k.c.youtube.com/CigLENy73wIaHwmCoysEwlJFMhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='250' yt:format='1'/><media:content url='rtsp://r6---sn-a5m7zu7k.c.youtube.com/CigLENy73wIaHwmCoysEwlJFMhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='250' yt:format='6'/><media:description type='plain'>Creating the ability to register service providers within our application.
+
+Watch the full series here: https://www.youtube.com/playlist?list=PLfdtiltiRHWEGcgVaEZQGoCNN4ye-5Hrc
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=MkVSwgQro4I&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/MkVSwgQro4I/0.jpg' height='360' width='480' time='00:02:05'/><media:thumbnail url='https://i.ytimg.com/vi/MkVSwgQro4I/1.jpg' height='90' width='120' time='00:01:02.500'/><media:thumbnail url='https://i.ytimg.com/vi/MkVSwgQro4I/2.jpg' height='90' width='120' time='00:02:05'/><media:thumbnail url='https://i.ytimg.com/vi/MkVSwgQro4I/3.jpg' height='90' width='120' time='00:03:07.500'/><media:title type='plain'>PHP Social Network: Service Providers (10)</media:title><yt:duration seconds='250'/></media:group><gd:rating average='4.0666666' max='5' min='1' numRaters='30' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1482'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/xeJq_LNQqGw</id><published>2014-12-08T23:30:01.000Z</published><updated>2014-12-18T15:09:45.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>PHP Social Network: Handling Singletons (9)</title><content type='text'>Adding support to handle singletons.
+
+Watch the full series here: https://www.youtube.com/playlist?list=PLfdtiltiRHWEGcgVaEZQGoCNN4ye-5Hrc
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=xeJq_LNQqGw&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/xeJq_LNQqGw/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=xeJq_LNQqGw'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/xeJq_LNQqGw'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/xeJq_LNQqGw/comments' countHint='10'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/xeJq_LNQqGw?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='476' yt:format='5'/><media:content url='rtsp://r1---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwlsqFCz_GrixRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='476' yt:format='1'/><media:content url='rtsp://r1---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwlsqFCz_GrixRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='476' yt:format='6'/><media:description type='plain'>Adding support to handle singletons.
+
+Watch the full series here: https://www.youtube.com/playlist?list=PLfdtiltiRHWEGcgVaEZQGoCNN4ye-5Hrc
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=xeJq_LNQqGw&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/xeJq_LNQqGw/0.jpg' height='360' width='480' time='00:03:58'/><media:thumbnail url='https://i.ytimg.com/vi/xeJq_LNQqGw/1.jpg' height='90' width='120' time='00:01:59'/><media:thumbnail url='https://i.ytimg.com/vi/xeJq_LNQqGw/2.jpg' height='90' width='120' time='00:03:58'/><media:thumbnail url='https://i.ytimg.com/vi/xeJq_LNQqGw/3.jpg' height='90' width='120' time='00:05:57'/><media:title type='plain'>PHP Social Network: Handling Singletons (9)</media:title><yt:duration seconds='476'/></media:group><gd:rating average='4.6363635' max='5' min='1' numRaters='33' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1845'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/-07Bj14P2v0</id><published>2014-12-05T17:00:14.000Z</published><updated>2014-12-20T11:29:48.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Cookies &amp; Sessions in PHP: What are they, and what's the difference?</title><content type='text'>Diving into what sessions and cookies are, and then looking at how we use them, and why we might use them. Also, an important look at some security consideration when using sessions and cookies, as well as some other tips.
+
+If you need to learn what sessions and cookies are, and how to use sessions and cookies with PHP, this video has you covered!
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=-07Bj14P2v0&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/-07Bj14P2v0/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=-07Bj14P2v0'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/-07Bj14P2v0'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/-07Bj14P2v0/comments' countHint='21'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/-07Bj14P2v0?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='1250' yt:format='5'/><media:content url='rtsp://r8---sn-a5m7zu7r.c.youtube.com/CigLENy73wIaHwn92g9ej8FO-xMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='1250' yt:format='1'/><media:content url='rtsp://r8---sn-a5m7zu7r.c.youtube.com/CigLENy73wIaHwn92g9ej8FO-xMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='1250' yt:format='6'/><media:description type='plain'>Diving into what sessions and cookies are, and then looking at how we use them, and why we might use them. Also, an important look at some security consideration when using sessions and cookies, as well as some other tips.
+
+If you need to learn what sessions and cookies are, and how to use sessions and cookies with PHP, this video has you covered!
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=-07Bj14P2v0&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/-07Bj14P2v0/0.jpg' height='360' width='480' time='00:10:25'/><media:thumbnail url='https://i.ytimg.com/vi/-07Bj14P2v0/1.jpg' height='90' width='120' time='00:05:12.500'/><media:thumbnail url='https://i.ytimg.com/vi/-07Bj14P2v0/2.jpg' height='90' width='120' time='00:10:25'/><media:thumbnail url='https://i.ytimg.com/vi/-07Bj14P2v0/3.jpg' height='90' width='120' time='00:15:37.500'/><media:title type='plain'>Cookies &amp; Sessions in PHP: What are they, and what's the difference?</media:title><yt:duration seconds='1250'/></media:group><gd:rating average='4.9674797' max='5' min='1' numRaters='123' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='2776'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/YZ28eyK_Oe0</id><published>2014-12-04T18:00:07.000Z</published><updated>2014-12-18T15:09:56.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Tip: Rendering JSON In Your Browser!</title><content type='text'>Working with JSON? In it's natural form within a browser it looks a mess. But, we can sort that out with some JSON prettifying extensions!
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=YZ28eyK_Oe0&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/YZ28eyK_Oe0/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=YZ28eyK_Oe0'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/YZ28eyK_Oe0'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/YZ28eyK_Oe0/comments' countHint='13'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/YZ28eyK_Oe0?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='205' yt:format='5'/><media:content url='rtsp://r2---sn-a5m7zu7r.c.youtube.com/CigLENy73wIaHwntOb8ie7ydYRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='205' yt:format='1'/><media:content url='rtsp://r2---sn-a5m7zu7r.c.youtube.com/CigLENy73wIaHwntOb8ie7ydYRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='205' yt:format='6'/><media:description type='plain'>Working with JSON? In it's natural form within a browser it looks a mess. But, we can sort that out with some JSON prettifying extensions!
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=YZ28eyK_Oe0&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/YZ28eyK_Oe0/0.jpg' height='360' width='480' time='00:01:42.500'/><media:thumbnail url='https://i.ytimg.com/vi/YZ28eyK_Oe0/1.jpg' height='90' width='120' time='00:00:51.250'/><media:thumbnail url='https://i.ytimg.com/vi/YZ28eyK_Oe0/2.jpg' height='90' width='120' time='00:01:42.500'/><media:thumbnail url='https://i.ytimg.com/vi/YZ28eyK_Oe0/3.jpg' height='90' width='120' time='00:02:33.750'/><media:title type='plain'>Tip: Rendering JSON In Your Browser!</media:title><yt:duration seconds='205'/></media:group><gd:rating average='4.875' max='5' min='1' numRaters='96' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='2308'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/N9UxhGL-8hg</id><published>2014-11-30T19:30:02.000Z</published><updated>2014-12-21T06:08:12.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Chrome Developer Tools Device Emulator, and more!</title><content type='text'>An overview of the new Device Emulators in Chrome Developer Tools. It’s fast, easy and fun to get your responsive site looking good on any device.
+
+Responsive web design means your website adapt to different screen sizes, regardless of whether you're building for tablet, mobile, desktop, TV, or any other devices that become available.
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+For more DevTips, Travis recommends this series on the Bootstrap Grid: https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw
+
+Listen to the new podcast: https://itunes.apple.com/us/podcast/late-nights-with-trav-and-los/id944869246?mt=2
+
+Talk to Travis on Twitter: https://twitter.com/DevTipsShow
+
+DevTips Starter kit: https://github.com/DevTips/DevTips-Starter-Kit
+
+Just The Tips Vine: https://vine.co/u/1136407606232285184
+
+---
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=N9UxhGL-8hg&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/N9UxhGL-8hg/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=N9UxhGL-8hg'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/N9UxhGL-8hg'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/N9UxhGL-8hg/comments' countHint='74'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/N9UxhGL-8hg?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='853' yt:format='5'/><media:content url='rtsp://r7---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwkY8v5ihDHVNxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='853' yt:format='1'/><media:content url='rtsp://r7---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwkY8v5ihDHVNxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='853' yt:format='6'/><media:description type='plain'>An overview of the new Device Emulators in Chrome Developer Tools. It’s fast, easy and fun to get your responsive site looking good on any device.
+
+Responsive web design means your website adapt to different screen sizes, regardless of whether you're building for tablet, mobile, desktop, TV, or any other devices that become available.
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+For more DevTips, Travis recommends this series on the Bootstrap Grid: https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw
+
+Listen to the new podcast: https://itunes.apple.com/us/podcast/late-nights-with-trav-and-los/id944869246?mt=2
+
+Talk to Travis on Twitter: https://twitter.com/DevTipsShow
+
+DevTips Starter kit: https://github.com/DevTips/DevTips-Starter-Kit
+
+Just The Tips Vine: https://vine.co/u/1136407606232285184
+
+---
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=N9UxhGL-8hg&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/N9UxhGL-8hg/0.jpg' height='360' width='480' time='00:07:06.500'/><media:thumbnail url='https://i.ytimg.com/vi/N9UxhGL-8hg/1.jpg' height='90' width='120' time='00:03:33.250'/><media:thumbnail url='https://i.ytimg.com/vi/N9UxhGL-8hg/2.jpg' height='90' width='120' time='00:07:06.500'/><media:thumbnail url='https://i.ytimg.com/vi/N9UxhGL-8hg/3.jpg' height='90' width='120' time='00:10:39.750'/><media:title type='plain'>Chrome Developer Tools Device Emulator, and more!</media:title><yt:duration seconds='853'/></media:group><gd:rating average='4.891892' max='5' min='1' numRaters='222' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='4787'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/BR787aefMfY</id><published>2014-11-29T00:32:37.000Z</published><updated>2014-12-19T05:25:31.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Amazon S3 with PHP: Uploading Files (3/6)</title><content type='text'>Uploading files to an Amazon S3 bucket is super simple. We put together a simple upload form to send off a file to be stored.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=BR787aefMfY&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/BR787aefMfY/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=BR787aefMfY'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/BR787aefMfY'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/BR787aefMfY/comments' countHint='4'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/BR787aefMfY?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='617' yt:format='5'/><media:content url='rtsp://r3---sn-a5m7zu7z.c.youtube.com/CigLENy73wIaHwn2MZ-n7fweBRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='617' yt:format='1'/><media:content url='rtsp://r3---sn-a5m7zu7z.c.youtube.com/CigLENy73wIaHwn2MZ-n7fweBRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='617' yt:format='6'/><media:description type='plain'>Uploading files to an Amazon S3 bucket is super simple. We put together a simple upload form to send off a file to be stored.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=BR787aefMfY&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/BR787aefMfY/0.jpg' height='360' width='480' time='00:05:08.500'/><media:thumbnail url='https://i.ytimg.com/vi/BR787aefMfY/1.jpg' height='90' width='120' time='00:02:34.250'/><media:thumbnail url='https://i.ytimg.com/vi/BR787aefMfY/2.jpg' height='90' width='120' time='00:05:08.500'/><media:thumbnail url='https://i.ytimg.com/vi/BR787aefMfY/3.jpg' height='90' width='120' time='00:07:42.750'/><media:title type='plain'>Amazon S3 with PHP: Uploading Files (3/6)</media:title><yt:duration seconds='617'/></media:group><gd:rating average='5.0' max='5' min='1' numRaters='15' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1002'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/HDxCDdZFh9g</id><published>2014-11-29T00:32:37.000Z</published><updated>2014-12-10T18:45:16.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Amazon S3 with PHP: SDK Setup (2/6)</title><content type='text'>Pulling down the AWS SDK so we can connect to Amazon S3 and CloudFront later on in the series.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=HDxCDdZFh9g&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/HDxCDdZFh9g/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=HDxCDdZFh9g'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/HDxCDdZFh9g'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/HDxCDdZFh9g/comments' countHint='12'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/HDxCDdZFh9g?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='353' yt:format='5'/><media:content url='rtsp://r8---sn-a5m7zu76.c.youtube.com/CigLENy73wIaHwnYh0XWDUI8HBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='353' yt:format='1'/><media:content url='rtsp://r8---sn-a5m7zu76.c.youtube.com/CigLENy73wIaHwnYh0XWDUI8HBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='353' yt:format='6'/><media:description type='plain'>Pulling down the AWS SDK so we can connect to Amazon S3 and CloudFront later on in the series.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=HDxCDdZFh9g&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/HDxCDdZFh9g/0.jpg' height='360' width='480' time='00:02:56.500'/><media:thumbnail url='https://i.ytimg.com/vi/HDxCDdZFh9g/1.jpg' height='90' width='120' time='00:01:28.250'/><media:thumbnail url='https://i.ytimg.com/vi/HDxCDdZFh9g/2.jpg' height='90' width='120' time='00:02:56.500'/><media:thumbnail url='https://i.ytimg.com/vi/HDxCDdZFh9g/3.jpg' height='90' width='120' time='00:04:24.750'/><media:title type='plain'>Amazon S3 with PHP: SDK Setup (2/6)</media:title><yt:duration seconds='353'/></media:group><gd:rating average='4.6923075' max='5' min='1' numRaters='13' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1417'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/yylt8-xTOVw</id><published>2014-11-29T00:32:37.000Z</published><updated>2014-12-15T04:00:05.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Amazon S3 with PHP: Video Streaming with CloudFront (6/6)</title><content type='text'>S3 and CloudFront team up to provide fast video streaming. We create a very basic HTML5 video player and stream a large video directly from our bucket, served from CloudFront.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=yylt8-xTOVw&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/yylt8-xTOVw/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=yylt8-xTOVw'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/yylt8-xTOVw'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/yylt8-xTOVw/comments' countHint='10'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/yylt8-xTOVw?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='963' yt:format='5'/><media:content url='rtsp://r4---sn-a5m7zu76.c.youtube.com/CigLENy73wIaHwlcOVPs820pyxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='963' yt:format='1'/><media:content url='rtsp://r4---sn-a5m7zu76.c.youtube.com/CigLENy73wIaHwlcOVPs820pyxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='963' yt:format='6'/><media:description type='plain'>S3 and CloudFront team up to provide fast video streaming. We create a very basic HTML5 video player and stream a large video directly from our bucket, served from CloudFront.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=yylt8-xTOVw&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/yylt8-xTOVw/0.jpg' height='360' width='480' time='00:08:01.500'/><media:thumbnail url='https://i.ytimg.com/vi/yylt8-xTOVw/1.jpg' height='90' width='120' time='00:04:00.750'/><media:thumbnail url='https://i.ytimg.com/vi/yylt8-xTOVw/2.jpg' height='90' width='120' time='00:08:01.500'/><media:thumbnail url='https://i.ytimg.com/vi/yylt8-xTOVw/3.jpg' height='90' width='120' time='00:12:02.250'/><media:title type='plain'>Amazon S3 with PHP: Video Streaming with CloudFront (6/6)</media:title><yt:duration seconds='963'/></media:group><gd:rating average='5.0' max='5' min='1' numRaters='20' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='950'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/8s2vvKqybms</id><published>2014-11-29T00:32:36.000Z</published><updated>2014-12-10T18:46:03.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Amazon S3 with PHP: Tokenising Download URLs (5/6)</title><content type='text'>Protect a download link with a tokenised (signed) URL, to avoid anyone with the URL downloading it. This is useful for membership systems where you want to allow users to download a file from your S3 bucket, but stops them passing the link to someone else to download.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=8s2vvKqybms&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/8s2vvKqybms/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=8s2vvKqybms'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/8s2vvKqybms'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/8s2vvKqybms/comments' countHint='0'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/8s2vvKqybms?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='310' yt:format='5'/><media:content url='rtsp://r5---sn-a5m7zu7r.c.youtube.com/CigLENy73wIaHwlrbrKqvK_N8hMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='310' yt:format='1'/><media:content url='rtsp://r5---sn-a5m7zu7r.c.youtube.com/CigLENy73wIaHwlrbrKqvK_N8hMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='310' yt:format='6'/><media:description type='plain'>Protect a download link with a tokenised (signed) URL, to avoid anyone with the URL downloading it. This is useful for membership systems where you want to allow users to download a file from your S3 bucket, but stops them passing the link to someone else to download.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=8s2vvKqybms&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/8s2vvKqybms/0.jpg' height='360' width='480' time='00:02:35'/><media:thumbnail url='https://i.ytimg.com/vi/8s2vvKqybms/1.jpg' height='90' width='120' time='00:01:17.500'/><media:thumbnail url='https://i.ytimg.com/vi/8s2vvKqybms/2.jpg' height='90' width='120' time='00:02:35'/><media:thumbnail url='https://i.ytimg.com/vi/8s2vvKqybms/3.jpg' height='90' width='120' time='00:03:52.500'/><media:title type='plain'>Amazon S3 with PHP: Tokenising Download URLs (5/6)</media:title><yt:duration seconds='310'/></media:group><gd:rating average='5.0' max='5' min='1' numRaters='7' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='594'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/lnCcd-L250E</id><published>2014-11-29T00:32:36.000Z</published><updated>2014-12-10T18:45:48.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Amazon S3 with PHP: Listing Files (4/6)</title><content type='text'>Listing files in a particular bucket could be useful. It's really easy, too.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=lnCcd-L250E&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/lnCcd-L250E/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=lnCcd-L250E'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/lnCcd-L250E'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/lnCcd-L250E/comments' countHint='1'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/lnCcd-L250E?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='445' yt:format='5'/><media:content url='rtsp://r3---sn-a5m7zu7l.c.youtube.com/CigLENy73wIaHwlB5_bid5xwlhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='445' yt:format='1'/><media:content url='rtsp://r3---sn-a5m7zu7l.c.youtube.com/CigLENy73wIaHwlB5_bid5xwlhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='445' yt:format='6'/><media:description type='plain'>Listing files in a particular bucket could be useful. It's really easy, too.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=lnCcd-L250E&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/lnCcd-L250E/0.jpg' height='360' width='480' time='00:03:42.500'/><media:thumbnail url='https://i.ytimg.com/vi/lnCcd-L250E/1.jpg' height='90' width='120' time='00:01:51.250'/><media:thumbnail url='https://i.ytimg.com/vi/lnCcd-L250E/2.jpg' height='90' width='120' time='00:03:42.500'/><media:thumbnail url='https://i.ytimg.com/vi/lnCcd-L250E/3.jpg' height='90' width='120' time='00:05:33.750'/><media:title type='plain'>Amazon S3 with PHP: Listing Files (4/6)</media:title><yt:duration seconds='445'/></media:group><gd:rating average='4.2727275' max='5' min='1' numRaters='11' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='635'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/xkSIBeS_M7w</id><published>2014-11-29T00:32:36.000Z</published><updated>2014-12-12T16:41:38.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Amazon S3 with PHP: Introduction (1/6)</title><content type='text'>Instead of storing files on your server, let Amazon S3 take care of storing and serving files for you. In this series we look at uploading, listing, getting file URLs and tokenising URLs to protect them (e.g. under a membership only system). We finish off by taking a look at video streaming through CloudFront and S3.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=xkSIBeS_M7w&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/xkSIBeS_M7w/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=xkSIBeS_M7w'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/xkSIBeS_M7w'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/xkSIBeS_M7w/comments' countHint='4'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/xkSIBeS_M7w?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='156' yt:format='5'/><media:content url='rtsp://r3---sn-a5m7zu7r.c.youtube.com/CigLENy73wIaHwm8M7_kBYhExhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='156' yt:format='1'/><media:content url='rtsp://r3---sn-a5m7zu7r.c.youtube.com/CigLENy73wIaHwm8M7_kBYhExhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='156' yt:format='6'/><media:description type='plain'>Instead of storing files on your server, let Amazon S3 take care of storing and serving files for you. In this series we look at uploading, listing, getting file URLs and tokenising URLs to protect them (e.g. under a membership only system). We finish off by taking a look at video streaming through CloudFront and S3.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=xkSIBeS_M7w&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/xkSIBeS_M7w/0.jpg' height='360' width='480' time='00:01:18'/><media:thumbnail url='https://i.ytimg.com/vi/xkSIBeS_M7w/1.jpg' height='90' width='120' time='00:00:39'/><media:thumbnail url='https://i.ytimg.com/vi/xkSIBeS_M7w/2.jpg' height='90' width='120' time='00:01:18'/><media:thumbnail url='https://i.ytimg.com/vi/xkSIBeS_M7w/3.jpg' height='90' width='120' time='00:01:57'/><media:title type='plain'>Amazon S3 with PHP: Introduction (1/6)</media:title><yt:duration seconds='156'/></media:group><gd:rating average='5.0' max='5' min='1' numRaters='31' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='2294'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/jRd1wmLw0Ds</id><published>2014-11-21T16:00:05.000Z</published><updated>2014-12-17T17:52:23.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Fast Development Environments with Bowery</title><content type='text'>Bowery have updated their desktop application so you can quickly host a project without the need for AWS keys. Here, we look at rapidly setting up a LAMP stack, so you can avoid complicated virtual machines or WAMP/MAMP/XAMPP.
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=jRd1wmLw0Ds&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/jRd1wmLw0Ds/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=jRd1wmLw0Ds'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/jRd1wmLw0Ds'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/jRd1wmLw0Ds/comments' countHint='32'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/jRd1wmLw0Ds?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='320' yt:format='5'/><media:content url='rtsp://r2---sn-a5m7zu7l.c.youtube.com/CigLENy73wIaHwk70PBiwnUXjRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='320' yt:format='1'/><media:content url='rtsp://r2---sn-a5m7zu7l.c.youtube.com/CigLENy73wIaHwk70PBiwnUXjRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='320' yt:format='6'/><media:description type='plain'>Bowery have updated their desktop application so you can quickly host a project without the need for AWS keys. Here, we look at rapidly setting up a LAMP stack, so you can avoid complicated virtual machines or WAMP/MAMP/XAMPP.
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=jRd1wmLw0Ds&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/jRd1wmLw0Ds/0.jpg' height='360' width='480' time='00:02:40'/><media:thumbnail url='https://i.ytimg.com/vi/jRd1wmLw0Ds/1.jpg' height='90' width='120' time='00:01:20'/><media:thumbnail url='https://i.ytimg.com/vi/jRd1wmLw0Ds/2.jpg' height='90' width='120' time='00:02:40'/><media:thumbnail url='https://i.ytimg.com/vi/jRd1wmLw0Ds/3.jpg' height='90' width='120' time='00:04:00'/><media:title type='plain'>Fast Development Environments with Bowery</media:title><yt:duration seconds='320'/></media:group><gd:rating average='4.8681316' max='5' min='1' numRaters='91' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='7131'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/S0IKLKIm2ZQ</id><published>2014-11-20T18:00:20.000Z</published><updated>2014-12-14T06:06:44.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>A Sexy Way To Display Prices with CSS</title><content type='text'>Display prices so they make maximum impact, and are easily readable.
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=S0IKLKIm2ZQ&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/S0IKLKIm2ZQ/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=S0IKLKIm2ZQ'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/S0IKLKIm2ZQ'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/S0IKLKIm2ZQ/comments' countHint='44'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/S0IKLKIm2ZQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='246' yt:format='5'/><media:content url='rtsp://r2---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwmU2SaiLApCSxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='246' yt:format='1'/><media:content url='rtsp://r2---sn-a5m7zu7e.c.youtube.com/CigLENy73wIaHwmU2SaiLApCSxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='246' yt:format='6'/><media:description type='plain'>Display prices so they make maximum impact, and are easily readable.
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=S0IKLKIm2ZQ&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/S0IKLKIm2ZQ/0.jpg' height='360' width='480' time='00:02:03'/><media:thumbnail url='https://i.ytimg.com/vi/S0IKLKIm2ZQ/1.jpg' height='90' width='120' time='00:01:01.500'/><media:thumbnail url='https://i.ytimg.com/vi/S0IKLKIm2ZQ/2.jpg' height='90' width='120' time='00:02:03'/><media:thumbnail url='https://i.ytimg.com/vi/S0IKLKIm2ZQ/3.jpg' height='90' width='120' time='00:03:04.500'/><media:title type='plain'>A Sexy Way To Display Prices with CSS</media:title><yt:duration seconds='246'/></media:group><gd:rating average='4.5646257' max='5' min='1' numRaters='147' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='5262'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/uM1KphD-N84</id><published>2014-11-20T15:00:12.000Z</published><updated>2014-12-20T04:42:31.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Efficient Fast Array Access with PHP</title><content type='text'>A quick tip showing the PHP list language construct for easily accessing items in arrays.
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=uM1KphD-N84&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/uM1KphD-N84/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=uM1KphD-N84'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/uM1KphD-N84'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/uM1KphD-N84/comments' countHint='16'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/uM1KphD-N84?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='180' yt:format='5'/><media:content url='rtsp://r2---sn-a5m7zu7z.c.youtube.com/CigLENy73wIaHwnON_4QpkrNuBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='180' yt:format='1'/><media:content url='rtsp://r2---sn-a5m7zu7z.c.youtube.com/CigLENy73wIaHwnON_4QpkrNuBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='180' yt:format='6'/><media:description type='plain'>A quick tip showing the PHP list language construct for easily accessing items in arrays.
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=uM1KphD-N84&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/uM1KphD-N84/0.jpg' height='360' width='480' time='00:01:30'/><media:thumbnail url='https://i.ytimg.com/vi/uM1KphD-N84/1.jpg' height='90' width='120' time='00:00:45'/><media:thumbnail url='https://i.ytimg.com/vi/uM1KphD-N84/2.jpg' height='90' width='120' time='00:01:30'/><media:thumbnail url='https://i.ytimg.com/vi/uM1KphD-N84/3.jpg' height='90' width='120' time='00:02:15'/><media:title type='plain'>Efficient Fast Array Access with PHP</media:title><yt:duration seconds='180'/></media:group><gd:rating average='4.9402986' max='5' min='1' numRaters='134' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='4686'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/Rr36E8NAORI</id><published>2014-11-19T00:30:00.000Z</published><updated>2014-12-21T03:20:48.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Getting User Location Information with PHP</title><content type='text'>Get a user's city, country, longitude/latitude, region and more, with this PHP class that pulls information from an API.
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=Rr36E8NAORI&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Rr36E8NAORI/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=Rr36E8NAORI'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/Rr36E8NAORI'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/Rr36E8NAORI/comments' countHint='30'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/Rr36E8NAORI?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='690' yt:format='5'/><media:content url='rtsp://r4---sn-a5m7zu7z.c.youtube.com/CigLENy73wIaHwkSOUDDE_q9RhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='690' yt:format='1'/><media:content url='rtsp://r4---sn-a5m7zu7z.c.youtube.com/CigLENy73wIaHwkSOUDDE_q9RhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='690' yt:format='6'/><media:description type='plain'>Get a user's city, country, longitude/latitude, region and more, with this PHP class that pulls information from an API.
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=Rr36E8NAORI&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/Rr36E8NAORI/0.jpg' height='360' width='480' time='00:05:45'/><media:thumbnail url='https://i.ytimg.com/vi/Rr36E8NAORI/1.jpg' height='90' width='120' time='00:02:52.500'/><media:thumbnail url='https://i.ytimg.com/vi/Rr36E8NAORI/2.jpg' height='90' width='120' time='00:05:45'/><media:thumbnail url='https://i.ytimg.com/vi/Rr36E8NAORI/3.jpg' height='90' width='120' time='00:08:37.500'/><media:title type='plain'>Getting User Location Information with PHP</media:title><yt:duration seconds='690'/></media:group><gd:rating average='4.968254' max='5' min='1' numRaters='126' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='5085'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/Au_KUR3loEQ</id><published>2014-11-17T15:00:15.000Z</published><updated>2014-12-10T18:56:55.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>PHP Currency Conversion: Improvement (2/2)</title><content type='text'>A slight improvement to the initial class, whereby we only pass the data we need to the API.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWEWm_rndB8qdGPs88WLa3tA
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=Au_KUR3loEQ&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/Au_KUR3loEQ/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=Au_KUR3loEQ'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/Au_KUR3loEQ'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/Au_KUR3loEQ/comments' countHint='6'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/Au_KUR3loEQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='407' yt:format='5'/><media:content url='rtsp://r5---sn-a5m7zu76.c.youtube.com/CigLENy73wIaHwlEoOUdUcrvAhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='407' yt:format='1'/><media:content url='rtsp://r5---sn-a5m7zu76.c.youtube.com/CigLENy73wIaHwlEoOUdUcrvAhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='407' yt:format='6'/><media:description type='plain'>A slight improvement to the initial class, whereby we only pass the data we need to the API.
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWEWm_rndB8qdGPs88WLa3tA
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=Au_KUR3loEQ&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/Au_KUR3loEQ/0.jpg' height='360' width='480' time='00:03:23.500'/><media:thumbnail url='https://i.ytimg.com/vi/Au_KUR3loEQ/1.jpg' height='90' width='120' time='00:01:41.750'/><media:thumbnail url='https://i.ytimg.com/vi/Au_KUR3loEQ/2.jpg' height='90' width='120' time='00:03:23.500'/><media:thumbnail url='https://i.ytimg.com/vi/Au_KUR3loEQ/3.jpg' height='90' width='120' time='00:05:05.250'/><media:title type='plain'>PHP Currency Conversion: Improvement (2/2)</media:title><yt:duration seconds='407'/></media:group><gd:rating average='4.5789475' max='5' min='1' numRaters='19' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='998'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/yM2ddPDRdVQ</id><published>2014-11-17T15:00:11.000Z</published><updated>2014-12-14T22:34:47.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>PHP Currency Conversion: Building The Class (1/2)</title><content type='text'>Choosing an API, we create a class that converts any amount of currencies and values. We're using the free currency conversion API, found here: http://www.freecurrencyconverterapi.com/
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWEWm_rndB8qdGPs88WLa3tA
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=yM2ddPDRdVQ&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/yM2ddPDRdVQ/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=yM2ddPDRdVQ'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/yM2ddPDRdVQ'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/yM2ddPDRdVQ/comments' countHint='13'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/yM2ddPDRdVQ?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='1720' yt:format='5'/><media:content url='rtsp://r1---sn-a5m7zu7d.c.youtube.com/CigLENy73wIaHwlUddHwdJ3NyBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='1720' yt:format='1'/><media:content url='rtsp://r1---sn-a5m7zu7d.c.youtube.com/CigLENy73wIaHwlUddHwdJ3NyBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='1720' yt:format='6'/><media:description type='plain'>Choosing an API, we create a class that converts any amount of currencies and values. We're using the free currency conversion API, found here: http://www.freecurrencyconverterapi.com/
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWEWm_rndB8qdGPs88WLa3tA
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=yM2ddPDRdVQ&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/yM2ddPDRdVQ/0.jpg' height='360' width='480' time='00:14:20'/><media:thumbnail url='https://i.ytimg.com/vi/yM2ddPDRdVQ/1.jpg' height='90' width='120' time='00:07:10'/><media:thumbnail url='https://i.ytimg.com/vi/yM2ddPDRdVQ/2.jpg' height='90' width='120' time='00:14:20'/><media:thumbnail url='https://i.ytimg.com/vi/yM2ddPDRdVQ/3.jpg' height='90' width='120' time='00:21:30'/><media:title type='plain'>PHP Currency Conversion: Building The Class (1/2)</media:title><yt:duration seconds='1720'/></media:group><gd:rating average='5.0' max='5' min='1' numRaters='27' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1929'/></entry><entry><id>http://gdata.youtube.com/feeds/api/videos/wlB276xVgsw</id><published>2014-11-16T21:00:09.000Z</published><updated>2014-12-10T19:02:43.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/><category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Education' label='Education'/><title type='text'>Dropbox With PHP: Searching Files (6/6)</title><content type='text'>You might need to search files in a user's Dropbox, and thankfully this is made really easy. Just pass the search query and Dropbox will return any files that match!
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGOceoK3I3LrDL6x8mM0Ipb
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy
+
+Dropbox and the Dropbox logo are trademarks of Dropbox, Inc.</content><link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=wlB276xVgsw&amp;feature=youtube_gdata'/><link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/wlB276xVgsw/related'/><link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=wlB276xVgsw'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/UCpOIUW62tnJTtpWFABxWZ8g/uploads/wlB276xVgsw'/><author><name>phpacademy</name><uri>https://gdata.youtube.com/feeds/api/users/phpacademy</uri></author><gd:comments><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/wlB276xVgsw/comments' countHint='1'/></gd:comments><georss:where><gml:Point><gml:pos>51.4825782776 -0.00766000011936</gml:pos></gml:Point></georss:where><yt:hd/><media:group><media:category label='Education' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Education</media:category><media:content url='https://www.youtube.com/v/wlB276xVgsw?version=3&amp;f=user_uploads&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='200' yt:format='5'/><media:content url='rtsp://r3---sn-a5m7zu7s.c.youtube.com/CigLENy73wIaHwnMglWs73ZQwhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='200' yt:format='1'/><media:content url='rtsp://r3---sn-a5m7zu7s.c.youtube.com/CigLENy73wIaHwnMglWs73ZQwhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='200' yt:format='6'/><media:description type='plain'>You might need to search files in a user's Dropbox, and thankfully this is made really easy. Just pass the search query and Dropbox will return any files that match!
+
+Watch the full series at https://www.youtube.com/playlist?list=PLfdtiltiRHWGOceoK3I3LrDL6x8mM0Ipb
+
+Subscribe here for more tutorials: http://www.youtube.com/subscription_center?add_user=phpacademy
+
+Our channel
+http://youtube.com/phpacademy
+
+Official website
+http://phpacademy.org
+
+Support Forum
+http://phpacademy.org/forum
+
+Follow us on Twitter!
+http://twitter.com/phpacademy
+
+Dropbox and the Dropbox logo are trademarks of Dropbox, Inc.</media:description><media:keywords/><media:player url='https://www.youtube.com/watch?v=wlB276xVgsw&amp;feature=youtube_gdata_player'/><media:thumbnail url='https://i.ytimg.com/vi/wlB276xVgsw/0.jpg' height='360' width='480' time='00:01:40'/><media:thumbnail url='https://i.ytimg.com/vi/wlB276xVgsw/1.jpg' height='90' width='120' time='00:00:50'/><media:thumbnail url='https://i.ytimg.com/vi/wlB276xVgsw/2.jpg' height='90' width='120' time='00:01:40'/><media:thumbnail url='https://i.ytimg.com/vi/wlB276xVgsw/3.jpg' height='90' width='120' time='00:02:30'/><media:title type='plain'>Dropbox With PHP: Searching Files (6/6)</media:title><yt:duration seconds='200'/></media:group><gd:rating average='4.076923' max='5' min='1' numRaters='13' rel='http://schemas.google.com/g/2005#overall'/><yt:statistics favoriteCount='0' viewCount='1305'/></entry></feed>
